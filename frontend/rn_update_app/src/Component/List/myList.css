@@ -1,0 +1,13 @@
+.listItem {
+  border-width: 0.5px;
+  border-color: black;
+  border-style: solid;
+  display: flex;
+  flex-flow: nowrap;
+  justify-content:space-around;
+}
+
+.cellColumn {
+  padding: 6px;
+  align-self: center;
+}
